@@ -1,0 +1,11 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 7fccf5
+  secondary: adb6c0
+  secondary-dark: 333
+  muted: 777
+
+# Font Families
+font:
+  primary: "'Cera Round Pro', sans-serif"
+  secondary: "'Cera Round Pro', sans-serif"
